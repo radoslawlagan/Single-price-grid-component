@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [HERE](https://your-live-site-url.com)
+- Live Site URL: [HERE](https://radoslawlagan.github.io/Single-price-grid-component/)
 
 ## My process
 
