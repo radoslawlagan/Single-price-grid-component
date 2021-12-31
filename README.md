@@ -28,7 +28,3 @@ Users should be able to:
 - BEM
 - Flexbox
 - Mobile-first workflow
-
-### What I learned
-
-Just an exercise on techniques that I've learned so far. Practice makes perfect.
